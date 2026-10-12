@@ -1,7 +1,10 @@
 # WAFORGE2025
-~25hr
 Code: Silver Liu
 Art: Diana Everman, Esperanza Carillo Corral, Ivy Yang
+
+Won Best UI at WAFORGE 2025
+
+A interactive educational experience targetting children ages 4-10
 
 Screenshots:
 ![image](https://github.com/user-attachments/assets/1d97d1e2-b656-4991-9c5e-66aa3800c358)
